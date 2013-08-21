@@ -1,0 +1,12 @@
+{
+    "name": "jquery-flickrtxt",
+    "description": "Replace text with random letter photos from Flickr",
+    "version": "0.1.0",
+    "main": "./jquery.flickrtxt",
+    "devDependencies": {
+        "mocha": "*",
+        "chai": "*",
+        "jsdom": "*",
+        "jquery": "*"
+    }
+}
